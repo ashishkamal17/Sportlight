@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--  Font Sizes  -->
+    <dimen name="font_sm">40sp</dimen>
+    <dimen name="font_md">48sp</dimen>
+    <dimen name="font_lg">56sp</dimen>
+    <dimen name="font_xl">72sp</dimen>
+    <dimen name="font_xxl_83">83sp</dimen>
+    <dimen name="font_xxl_96">96sp</dimen>
+
+    <!--  icon-sizes  -->
+    <dimen name="icon_sm">64dp</dimen>
+    <dimen name="icon_md">72dp</dimen>
+    <dimen name="icon_lg">83dp</dimen>
+    <dimen name="icon_xl">96dp</dimen>
+
+    <!--  white-gaps  -->
+    <dimen name="gap_sm">32dp</dimen>
+    <dimen name="gap_md">40dp</dimen>
+    <dimen name="gap_lg">56dp</dimen>
+    <dimen name="gap_xl">72dp</dimen>
+    <dimen name="gap_xxl">96dp</dimen>
+    <dimen name="gap_line">70dp</dimen>
+
+    <!--  other-dimens  -->
+    <dimen name="left_right_margin">56dp</dimen>
+    <dimen name="profile_picture_regular">144dp</dimen>
+    <dimen name="profile_picture_small">112dp</dimen>
+    <dimen name="bottom_nav_height">190dp</dimen>
+    <dimen name="corner_radius">24dp</dimen>
+
+
+</resources>

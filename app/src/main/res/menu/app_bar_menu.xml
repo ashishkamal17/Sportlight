@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_search"
+        android:icon="@drawable/ic_cross"
+        android:title="@string/nav_search"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/action_share"
+        android:icon="@drawable/baseline_search"
+        android:title="@string/nav_share"
+        app:showAsAction="ifRoom"/>
+
+
+</menu>
